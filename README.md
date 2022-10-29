@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @boopathiviky
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning Datascience
+- 🌱 I’m currently working as a Data Scientist
 - 💞️ I’m looking to collaborate on Time series predition using python
 - 📫 How to reach me boopathiviky@gmail.com
 
