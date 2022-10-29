@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @boopathiviky
 - 👀 I’m interested in AI
 - 🌱 I’m currently working as a Data Scientist
-- 💞️ I’m looking to collaborate on Time series predition using python
+- 💞️ I’m looking to collaborate on Time series predition using ML and DL
 - 📫 How to reach me boopathiviky@gmail.com
 
 <!---
